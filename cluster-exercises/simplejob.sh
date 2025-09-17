@@ -1,7 +1,7 @@
 #!/bin/sh
 #SBATCH -J "Balazs first slurm job"
 #SBATCH --time=1 
-#SBATCH -A lu2023-7-4
+#SBATCH -A hep2023-1-6
 echo "we are on the node"
 hostname
 who
